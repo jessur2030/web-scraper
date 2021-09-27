@@ -1,0 +1,16 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "Extract content and data from a website quickly and accurately.",
+  "main": "index.js",
+  "scripts": {
+   "start": "nodemon index.js"
+  },
+  "author": "Jesus Rosario",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cheerio": "*",
+    "express": "^4.17.1"
+  }
+}
